@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Multi-Page-React-App-with-Routing/static/css/main.75a543a6.css",
+    "main.js": "/Multi-Page-React-App-with-Routing/static/js/main.3f4f364a.js",
+    "index.html": "/Multi-Page-React-App-with-Routing/index.html",
+    "main.75a543a6.css.map": "/Multi-Page-React-App-with-Routing/static/css/main.75a543a6.css.map",
+    "main.3f4f364a.js.map": "/Multi-Page-React-App-with-Routing/static/js/main.3f4f364a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75a543a6.css",
+    "static/js/main.3f4f364a.js"
+  ]
+}
